@@ -1,6 +1,6 @@
 # ![Logo](https://raw.githubusercontent.com/Kreopolisz/Kreopolis-/refs/heads/main/logo.svg)
 
-## Disocrd Developer
+## Discord Developer
 
 I Am Trying to learn coding
 
