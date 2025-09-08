@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aggelos and I'm a Semi Developer, from albania/greece</h2>
+<h2 align="left">Hi 👋! My name is Aggelos and I'm a Semi Developer, From Albania/Greece</h2>
 
 ###
 
